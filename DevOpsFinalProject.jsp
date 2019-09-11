@@ -3,7 +3,7 @@
 <body>
 
 <h1>My DevOps final project</h1>
-<p>VER 4.0</p>
+<p>VER 4.1</p>
 <button type="button"
 onclick="document.getElementById('demo').innerHTML = Date()">
 Click me to display Date and Time.</button>
